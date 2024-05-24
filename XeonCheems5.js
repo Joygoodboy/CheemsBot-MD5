@@ -4774,105 +4774,18 @@ XeonBotInc.sendMessage(from, { text: `*${command}*\n\nNama : ${q}\nAnswer : *${t
 					const taky = xeony[Math.floor(Math.random() * xeony.length)]
 					XeonBotInc.sendMessage(from, { text: `Character Check : ${q}\nAnswer : *${taky}*` }, { quoted: m })
 				     break
-                    case 'awesomecheck':
-  case 'greatcheck':
-    case 'gaycheck':
-      case 'cutecheck':
-        case 'lesbicheck':
-          case 'lesbiancheck':
-             case 'hornycheck':
-                 case 'prettycheck':
-                    case 'lovelycheck':
-                      case 'uglycheck':
+                    case '':
+  case '':
 				if (!text) return m.reply(`Tag Someone, Example : ${prefix + command} @Xeon`)
 					const sangeh = ['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','90','91','92','93','94','95','96','97','98','99','100']
 					const sange = sangeh[Math.floor(Math.random() * sangeh.length)]
 XeonBotInc.sendMessage(from, { text: `*${command}*\n\nName : ${q}\nAnswer : *${sange}%*` }, { quoted: m })
 					break
-                    case 'stupid':
-      case 'foolish':
-      case 'smart':
-      case 'idiot':
-      case 'gay':
-      case 'lesbi':
-      case 'bastard':
-      case 'stubble':
-      case 'dog':
-      case 'fuck':
-      case 'ape':
-      case 'noob':
-      case 'great':
-      case 'horny':
-      case 'wibu':
-      case 'asshole':
-      case 'handsome':
-      case 'beautiful':
-      case 'cute':
-      case 'kind':
-      case 'ugly':
-      case 'pretty':
-      case 'lesbian':
-      case 'randi':
-      case 'gandu':
-      case 'madarchod':
-      case 'kala':
-      case 'gora':
-      case 'chutiya':
-      case 'nibba':
-      case 'nibbi':
-      case 'bhosdiwala':
-      case 'chutmarika':
-      case 'bokachoda':
-      case 'suarerbaccha':
-      case 'bolochoda':
-      case 'muthal':
-      case 'muthbaaz':
-      case 'randibaaz':
-      case 'topibaaz':
-      case 'cunt':
-      case 'nerd':
-      case 'behenchod':
-      case 'behnchoda':
-      case 'bhosdika':
-      case 'nerd':
-      case 'mc':
-      case 'bsdk':
-      case 'bhosdk':
-      case 'nigger':
-      case 'loda':
-      case 'laund':
-      case 'nigga':
-      case 'noobra':
-      case 'tharki':
-      case 'nibba':
-      case 'nibbi':
-      case 'mumu':
-      case 'rascal':
-      case 'scumbag':
-      case 'nuts':
-      case 'comrade':
-      case 'fagot':
-      case 'scoundrel':
-      case 'ditch':
-      case 'dope':
-      case 'gucci':
-      case 'lit':
-      case 'dumbass':
-      case 'sexy':
-      case 'crackhead':
-      case 'mf':
-      case 'motherfucker':
-      case 'dogla':
-      case 'bewda':
-      case 'boka':
-      case 'khanki':
-      case 'bal':
-      case 'sucker':
-      case 'fuckboy':
-      case 'playboy':
-      case 'fuckgirl':
-      case 'playgirl':
-      case 'hot': {
+                    ':
+      case '':
+      case '':
+      case '':
+      case '': {
             if (!m.isGroup) return m.reply(`${mess.group}`)
             let member = participants.map(u => u.id)
             let me = m.sender
@@ -6282,78 +6195,7 @@ const buttonMessage = {
 â• ${prefix}dance
 â• ${prefix}cringe
 â• ${prefix}neko
-â• ${prefix}gura
-â• â•â•â•â•â•â•â•âœªã€Œ NSFW ã€
-â• ${prefix}hentaivideo
-â• ${prefix}hneko
-â• ${prefix}nwaifu
-â• ${prefix}animespank
-â• ${prefix}trap
-â• ${prefix}gasm
-â• â•â•â•â•â•â•â•âœªã€Œ FUN ã€
-â•  ${prefix}how [text
-â•  ${prefix}when [text]
-â•  ${prefix}where [text]
-â•  ${prefix}is [text]
-â•  ${prefix}what [text]
-â•  ${prefix}can [text]
-â•  ${prefix}rate [text]
-â•  ${prefix}beautifulcheck [tag]
-â•  ${prefix}awesomecheck [tag]
-â•  ${prefix}prettycheck [tag]
-â•  ${prefix}lesbiancheck [tag]
-â•  ${prefix}gaycheck [tag]
-â•  ${prefix}cutecheck [tag]
-â•  ${prefix}uglycheck [tag]
-â•  ${prefix}hornycheck [tag]
-â•  ${prefix}charactercheck [tag]
-â•  ${prefix}lovelycheck [tag]
-â•  ${prefix}couple
-â•  ${prefix}mysoulmate
-â•  ${prefix}hot
-â•  ${prefix}sexy
-â•  ${prefix}kind
-â•  ${prefix}idiot
-â•  ${prefix}handsome
-â•  ${prefix}beautiful
-â•  ${prefix}cute
-â•  ${prefix}pretty
-â•  ${prefix}lesbian
-â•  ${prefix}noob
-â•  ${prefix}bastard
-â•  ${prefix}foolish
-â•  ${prefix}nerd
-â•  ${prefix}asshole
-â•  ${prefix}gay
-â•  ${prefix}smart
-â•  ${prefix}stubble
-â•  ${prefix}dog
-â•  ${prefix}horny
-â•  ${prefix}cunt
-â•  ${prefix}wibu
-â•  ${prefix}noobra
-â•  ${prefix}nibba
-â•  ${prefix}nibbi
-â•  ${prefix}comrade
-â•  ${prefix}mumu
-â•  ${prefix}rascal
-â•  ${prefix}scumbag
-â•  ${prefix}nuts
-â•  ${prefix}fagot
-â•  ${prefix}scoundrel
-â•  ${prefix}ditch
-â•  ${prefix}dope
-â•  ${prefix}gucci
-â•  ${prefix}lit
-â•  ${prefix}dumbass
-â•  ${prefix}crackhead
-â•  ${prefix}mf
-â•  ${prefix}motherfucker
-â•  ${prefix}sucker
-â•  ${prefix}fuckboy
-â•  ${prefix}playboy
-â•  ${prefix}fuckgirl
-â•  ${prefix}playgirl
+â• ${prefix}gura 
 â• â•â•â•â•â•â•âœªã€Œ SOUND ã€
 â•  ${prefix}sound1
 â•  ${prefix}sound2
@@ -7140,14 +6982,6 @@ const buttons = [
   {buttonId: 'owner', buttonText: {displayText: 'Owner ðŸ¤£'}, type: 1}
 ]
 const buttonMessage = {
-    image: unicorn,
-    caption: `â•”â•â•â•â•â•â•â•âœªã€Œ NSFW ã€	
-â• ${prefix}hentaivideo
-â• ${prefix}hneko
-â• ${prefix}nwaifu
-â• ${prefix}animespank
-â• ${prefix}trap
-â• ${prefix}gasm
 â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•âœª`,
     footer: `ã€Œ${botname}ã€`,
     buttons: buttons,
