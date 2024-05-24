@@ -7167,69 +7167,71 @@ const buttons = [
 const buttonMessage = {
     image: unicorn,
     caption: `â•”â•â•â•â•â•â•â•âœªã€Œ Fun ã€	
-â•  ${prefix}how [text
-â•  ${prefix}when [text]
-â•  ${prefix}where [text]
-â•  ${prefix}is [text]
-â•  ${prefix}what [text]
-â•  ${prefix}can [text]
-â•  ${prefix}rate [text]
-â•  ${prefix}beautifulcheck [tag]
-â•  ${prefix}awesomecheck [tag]
-â•  ${prefix}prettycheck [tag]
-â•  ${prefix}lesbiancheck [tag]
-â•  ${prefix}gaycheck [tag]
-â•  ${prefix}cutecheck [tag]
-â•  ${prefix}uglycheck [tag]
-â•  ${prefix}hornycheck [tag]
-â•  ${prefix}charactercheck [tag]
-â•  ${prefix}lovelycheck [tag]
-â•  ${prefix}couple
-â•  ${prefix}mysoulmate
-â•  ${prefix}hot
-â•  ${prefix}sexy
-â•  ${prefix}kind
-â•  ${prefix}idiot
-â•  ${prefix}handsome
-â•  ${prefix}beautiful
-â•  ${prefix}cute
-â•  ${prefix}pretty
-â•  ${prefix}lesbian
-â•  ${prefix}noob
-â•  ${prefix}bastard
-â•  ${prefix}foolish
-â•  ${prefix}nerd
-â•  ${prefix}asshole
-â•  ${prefix}gay
-â•  ${prefix}smart
-â•  ${prefix}stubble
-â•  ${prefix}dog
-â•  ${prefix}horny
-â•  ${prefix}cunt
-â•  ${prefix}wibu
-â•  ${prefix}noobra
-â•  ${prefix}nibba
-â•  ${prefix}nibbi
-â•  ${prefix}comrade
-â•  ${prefix}mumu
-â•  ${prefix}rascal
-â•  ${prefix}scumbag
-â•  ${prefix}nuts
-â•  ${prefix}fagot
-â•  ${prefix}scoundrel
-â•  ${prefix}ditch
-â•  ${prefix}dope
-â•  ${prefix}gucci
-â•  ${prefix}lit
-â•  ${prefix}dumbass
-â•  ${prefix}crackhead
-â•  ${prefix}mf
-â•  ${prefix}motherfucker
-â•  ${prefix}sucker
-â•  ${prefix}fuckboy
-â•  ${prefix}playboy
-â•  ${prefix}fuckgirl
-â•  ${prefix}playgirl
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•  ${prefix}
+â•. ${prefix}
+
 â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•âœª`,
     footer: `ã€Œ${botname}ã€`,
     buttons: buttons,
